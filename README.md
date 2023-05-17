@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- This project was built as part of a tutorial by [TechInfoYT]
+- This project was built as part of a tutorial by [TechInfoYT] and added more features to it.
